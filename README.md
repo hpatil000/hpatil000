@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**hpatil000/hpatil000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Harshita Bhavesh Patil**
 
-Here are some ideas to get you started:
+**A Technology and Data Enthusiast, Software Engineer** 💻❤️
+Welcome to my GitHub page! Here you'll find a collection of my projects, skills, and experiences as a passionate software developer. I'm currently seeking a full-time SDE opportunity starting from Jan 2024. Feel free to explore and get in touch!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+
+Hi, I'm Harshita Bhavesh Patil, a skilled Software Developer specializing in Data Science and Artificial Intelligence. I am a graduate student at New York Institute of Technology graduating in May 2024. I enjoy working on diverse projects and have experience in Software development, database management, and software engineering. My goal is to leverage my skills and knowledge to create innovative and efficient solutions.
+
+
+My Skillset Overview 💻
+𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: C, Java, Python, R, HTML, JavaScript, CSS
+
+𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬:SQL, MySQL, MongoDB, Postgres, Oracle 
+
+𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐓𝐨𝐨𝐥𝐬/𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬: AWS, HTML, JavaScript, CSS, React, REST APIs, Postman, Jupyter Notebook
