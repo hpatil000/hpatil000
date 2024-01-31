@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Software Developer</h3>
 
 **A Technology and Data Enthusiast, Software Engineer** 💻❤️
+
 Welcome to my GitHub page! Here you'll find a collection of my projects, skills, and experiences as a passionate software developer. I'm currently seeking a full-time SDE opportunity starting from Jan 2024. Feel free to explore and get in touch!
 
 **About Me**
@@ -21,10 +22,11 @@ Hi, I'm Harshita Bhavesh Patil, a skilled Software Developer specializing in Dat
 
 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐓𝐨𝐨𝐥𝐬/𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬: AWS, HTML, JavaScript, CSS, React, REST APIs, Postman, Jupyter Notebook
 
-- 📫 How to reach me **hpatil02@nyit.edu**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hpatil000&label=Profile%20views&color=0e75b6&style=flat" alt="hpatil000" /> </p>
 
 - 📫 How to reach me **hpatil02@nyit.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/harshitapatil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshitapatil/" height="30" width="40" /></a>
 </p>
