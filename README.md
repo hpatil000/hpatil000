@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Harshita Bhavesh Patil**
+**Harshita Bhavesh Patil** <h3 align="center">A passionate Software Developer</h3>
 
 **A Technology and Data Enthusiast, Software Engineer** 💻❤️
 Welcome to my GitHub page! Here you'll find a collection of my projects, skills, and experiences as a passionate software developer. I'm currently seeking a full-time SDE opportunity starting from Jan 2024. Feel free to explore and get in touch!
