@@ -1,15 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harshita Patil</h1>
-<h3 align="center">A passionate Software Developer</h3>
 
-**A Technology and Data Enthusiast, Software Engineer** 💻❤️
+I am Harshita Patil, a graduate student in Computer Science from New York Institute of Technology. This is my GitHub profile, where you will find the varied kind of projects that I have contributed to and have been a part of during my tenure.
 
-Welcome to my GitHub page! Here you'll find a collection of my projects, skills, and experiences as a passionate software developer. I'm currently seeking a full-time SDE opportunity starting from Jan 2024. Feel free to explore and get in touch!
-
-**About Me**
-
-Hi, I'm Harshita Bhavesh Patil, a skilled Software Developer specializing in Data Science and Artificial Intelligence. I am a graduate student at New York Institute of Technology graduating in May 2024. I enjoy working on diverse projects and have experience in Software development, database management, and software engineering. My goal is to leverage my skills and knowledge to create innovative and efficient solutions.
-
-
+My past experiences include working as a full-time Systems Engineer at Atos, I have detail-oriented IT professional industry experience of 2 years. Proficient in working with cross functional international teams proving teamwork and excellent verbal and written communication skills. I also working as a student technology assistant at New york institute of Technology, I provide technical support to faculty, staff, and students within the academic institution. My Responsibilities include resolving computer issues, setting up systems, assisting with IT projects, and sharing technical knowledge with students.As a technology and data enthusiast, I am highly motivated to develop my skill sets. I am confident that my capabilities, coupled with my quick learning abilities and attention to detail, make me a valuable asset in a professional setting.
 
 
 
