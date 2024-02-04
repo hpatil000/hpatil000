@@ -11,7 +11,7 @@ My past experiences include working as a full-time Systems Engineer at Atos, I h
 
 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: C, Java, Python, R, HTML, JavaScript, CSS
 
-𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬:SQL, MySQL, MongoDB, Postgres, Oracle 
+𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬:SQL, MySQL, Postgres, Oracle 
 
 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐓𝐨𝐨𝐥𝐬/𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬: AWS, HTML, JavaScript, CSS, React, REST APIs, Postman, Jupyter Notebook
 
