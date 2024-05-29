@@ -2,9 +2,11 @@
 
 I am Harshita Patil, a graduate student in Computer Science from New York Institute of Technology. This is my GitHub profile, where you will find the varied kind of projects that I have contributed to and have been a part of during my tenure.
 
-My past experiences include working as a full-time Systems Engineer at Atos, I have detail-oriented IT professional industry experience of 2 years. Proficient in working with cross functional international teams proving teamwork and excellent verbal and written communication skills. I also working as a student technology assistant at New york institute of Technology, I provide technical support to faculty, staff, and students within the academic institution. My Responsibilities include resolving computer issues, setting up systems, assisting with IT projects, and sharing technical knowledge with students.As a technology and data enthusiast, I am highly motivated to develop my skill sets. I am confident that my capabilities, coupled with my quick learning abilities and attention to detail, make me a valuable asset in a professional setting.
+I am a software engineer with over 3 years of experience in developing and enhancing web applications. Skilled in designing technology solutions, optimizing IT service management, and providing comprehensive technical support. Proven ability to improve system efficiency, user experience, and team performance through innovative problem-solving and effective training. I am proficient in C, Java, Python, SQL and have a keen interest in Software Development. 
 
+Additionally, I have a solid educational background with 2 years spent in college, where I honed my skills in software development, problem-solving, and leveraging innovative technologies to drive company success. 
 
+As a technology and data enthusiast, I am highly motivated to develop my skill sets. I am confident that my capabilities, coupled with my quick learning abilities and attention to detail, make me a valuable asset in a professional setting.
 
 **My Skillset Overview** 💻
 
