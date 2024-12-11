@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshita Patil</h1>
 
+I am Harshita Patil, a graduate student in Computer Science from New York Institute of Technology. This is my GitHub profile, where you will find the varied kind of projects that I have contributed to and have been a part of during my tenure.
+
 **My Skillset Overview** 💻
 
 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: C, Java, Python, R, HTML, JavaScript, CSS
