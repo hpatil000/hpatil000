@@ -4,11 +4,11 @@ I am Harshita Patil, a graduate student in Computer Science from New York Instit
 
 **My Skillset Overview** 💻
 
-𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: C, Java, Python, R, HTML, JavaScript, CSS
+𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬:  Python, R, C, Java, HTML, JavaScript, CSS
 
 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬:SQL, MySQL, Postgres, Oracle 
 
-𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐓𝐨𝐨𝐥𝐬/𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬: AWS, HTML, JavaScript, CSS, React, REST APIs, Postman, Jupyter Notebook
+𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐓𝐨𝐨𝐥𝐬/𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬: AWS, Postman, Jupyter Notebook, google colab, Jira, 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hpatil000&label=Profile%20views&color=0e75b6&style=flat" alt="hpatil000" /> </p>
 
