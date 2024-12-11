@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshita Patil</h1>
 
-I am Harshita Patil, a graduate student in Computer Science from New York Institute of Technology. This is my GitHub profile, where you will find the varied kind of projects that I have contributed to and have been a part of during my tenure.
-
-I am a software engineer with over 3 years of experience in developing and enhancing web applications. Skilled in designing technology solutions, optimizing IT service management, and providing comprehensive technical support. Proven ability to improve system efficiency, user experience, and team performance through innovative problem-solving and effective training. I am proficient in C, Java, Python, SQL and have a keen interest in Software Development. 
-
-Additionally, I have a solid educational background with 2 years spent in college, where I honed my skills in software development, problem-solving, and leveraging innovative technologies to drive company success. 
-
-As a technology and data enthusiast, I am highly motivated to develop my skill sets. I am confident that my capabilities, coupled with my quick learning abilities and attention to detail, make me a valuable asset in a professional setting.
-
 **My Skillset Overview** 💻
-
 
 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: C, Java, Python, R, HTML, JavaScript, CSS
 
