@@ -12,5 +12,5 @@ I am Harshita Patil, a graduate student in Computer Science from New York Instit
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hpatil000&label=Profile%20views&color=0e75b6&style=flat" alt="hpatil000" /> </p>
 
-- 📫 How to reach me **hpatil02@nyit.edu**
+- 📫 How to reach me **harshitapatil1301@gmail.com**
 
